@@ -5,7 +5,7 @@ int main()
 {
     int a=10, b=20;
     printf("value of a      : %d \t\n", a);
-    printf("Address of a    : %d \n", &a);
+    printf("Address of a    : %p \n", a);
     printf("-----------\n");
     printf("value of b      : %d \t\n", b);
     printf("address of B    : %d \n", &b);

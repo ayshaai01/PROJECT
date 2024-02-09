@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1706856565 source:c:\users\ayshaai01\desktop\project\getchfunction\main.c
+	<stdio.h>
+	<stdlib.h>
+
